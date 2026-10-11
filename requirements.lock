@@ -1,0 +1,35 @@
+# Ban chup day du moi thu vien dang chay tot (Python 3.12.8, tao bang: pip freeze).
+# Cap nhat: pip install -r requirements.txt roi pip freeze > requirements.lock
+annotated-doc==0.0.5
+annotated-types==0.8.0
+anyio==4.15.1
+attrs==26.1.0
+cffi==2.1.1
+click==8.5.0
+cloudpickle==3.1.2
+dlinfo==2.0.0
+espeakng-loader==0.2.4
+fastapi==0.143.0
+flatbuffers==25.12.19
+h11==0.16.0
+idna==3.20
+imageio-ffmpeg==0.6.0
+joblib==1.6.0
+kokoro-onnx==0.6.1
+numpy==2.5.3
+onnxruntime==1.31.0
+opentelemetry-api==1.45.1
+packaging==26.3
+phonemizer==3.4.0
+pillow==12.3.0
+protobuf==7.36.2
+pycparser==3.11
+pydantic==2.14.0
+pydantic_core==2.50.0
+python-multipart==0.0.32
+scipy==1.18.1
+soundfile==0.14.0
+starlette==1.7.0
+typing-inspection==0.4.4
+typing_extensions==4.16.0
+uvicorn==0.54.0

@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Chay giao dien web (FastAPI)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/app.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Tao de TOEIC (audio + video)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/make_test.py",
+      "args": ["config/test_moi.json"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Chi dung lai video (giu audio)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/make_test.py",
+      "args": ["config/test_moi.json", "--video-only"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

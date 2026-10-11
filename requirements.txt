@@ -1,0 +1,11 @@
+# Thu vien truc tiep, ghim dung phien ban da chay tot (Python 3.12).
+# requirements.lock ghim them ca cac thu vien phu thuoc, dung cho deploy: pip install -r requirements.lock
+kokoro-onnx==0.6.1
+soundfile==0.14.0
+numpy==2.5.3
+scipy==1.18.1
+Pillow==12.3.0
+imageio-ffmpeg==0.6.0
+fastapi==0.143.0
+uvicorn==0.54.0
+python-multipart==0.0.32

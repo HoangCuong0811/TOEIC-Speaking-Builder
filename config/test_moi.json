@@ -1,0 +1,36 @@
+{
+  "output_name": "TOEIC_Speaking_Test",
+  "spoken": {
+    "Q5_INTRO": "Imagine that a marketing firm is doing research in your area. You have agreed to participate in a telephone interview about vending machines, which are machines that sell snacks and other products.",
+    "Q5": "How often do you make purchases at vending machines, and when was the last time you used one?",
+    "Q6": "Do you think there should be more vending machines at your school or workplace? Why or why not?",
+    "Q7_A": "Which of the following products would you be most likely to buy from a vending machine? Why?",
+    "Q7_B": "Healthy snacks. Coffee. Ice cream.",
+    "Q8_INTRO": "Hello, this is Mark from the sales team. I'm planning to attend the monthly update meeting tomorrow, and I'd like to ask some questions about the agenda.",
+    "Q8": "What is Jim Asher going to talk about, and at what time?",
+    "Q9": "I have a lunch meeting tomorrow at noon. Could you tell me what I will be missing if I leave at noon?",
+    "Q10": "Could you give me all the information you have about any agenda items having to do with hiring new sales representatives?",
+    "Q11_A": "Do you agree or disagree with the following statement?",
+    "Q11_B": "It is necessary for leaders to have a good sense of humor.",
+    "Q11_C": "Use specific reasons and details to support your opinion."
+  },
+  "screen": {
+    "q1_text": "You've reached La Palma Community Center. If you would like to know more about our scheduled events, upcoming activities, and ongoing classes, please press one. To reserve one of our event rooms, press two. Or, remain on the line to be connected to the front desk. Thank you.",
+    "q2_text": "Thank you for calling Mama's Pizza restaurant. We have the best pizzas and pastas in town. For your convenience, customers can now place orders on our Web site. Check it out now if you prefer not to wait. Otherwise, an employee will be right with you to take your delivery order. Be sure to ask about our deals on meatballs, chicken wings, and fries.",
+    "q3_image": "assets/images/test2/q3_picture.png",
+    "q4_image": "assets/images/test2/q4_picture.png",
+    "q5_7_intro": "Imagine that a marketing firm is doing research in your area. You have agreed to participate in a telephone interview about vending machines, which are machines that sell snacks and other products.",
+    "q5": "How often do you make purchases at vending machines, and when was the last time you used one?",
+    "q6": "Do you think there should be more vending machines at your school or workplace? Why or why not?",
+    "q7": "Which of the following products would you be MOST likely to buy from a vending machine? Why?",
+    "q7_options": [
+      "Healthy snacks",
+      "Coffee",
+      "Ice cream"
+    ],
+    "q8_10_image": "assets/images/test2/q8_10_agenda.png",
+    "q11_lead": "Do you agree or disagree with the following statement?",
+    "q11_statement": "It is necessary for leaders to have a good sense of humor.",
+    "q11_instruction": "Use specific reasons and details to support your opinion."
+  }
+}
